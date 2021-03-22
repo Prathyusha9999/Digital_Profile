@@ -17,3 +17,7 @@ Format: ![Aly Text](url)
    * Item 3b
 http://github.com - automatic!
  [GitHub](http://github.com)
+First Header | Second Header
+ ----------- | -------------
+ Content cell 1 | Content cell 2
+ Content column 1 | Content column 2
